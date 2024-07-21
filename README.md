@@ -9,9 +9,9 @@ gcc 7.5
 vscode  
 mysql 8.0  
 redis 6.2.6  
-nginx 1.12.2
-cmake 3.26.1
-muduo
+nginx 1.12.2  
+cmake 3.26.1  
+muduo  
 ## 目录结构
 **bin** 存放可执行文件，分别是客户端和服务端  
 **build** 存放编译过程中产生的文件  
