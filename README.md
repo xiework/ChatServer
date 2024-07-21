@@ -1,0 +1,2 @@
+# ChatServer
+基于muduo库实现的集群聊天服务器源码和客户端，利用nginx tcp模块实现负载均衡以及使用redis的订阅/发布功能
