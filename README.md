@@ -36,4 +36,4 @@ client  客户端可执行文件 例： ./client 127.0.0.1 6000
 ./server 127.0.0.1 6000  
 ./client 127.0.0.1 8000  
 ## 项目运行截图
-
+![image](client1.png)
