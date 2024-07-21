@@ -21,3 +21,11 @@ muduo
 **thirdparty** ------- 存放第三方头文件  
 **autobuild.sh** ----- 可执行脚本，用于编译项目  
 **CMakeLists.txt** --- cmake文件，产出makefile文件  
+## 编译项目
+在项目目录下运行autobuild.sh  
+运行方式： ./autobuild.sh  
+## 运行项目
+client  客户端可执行文件 例： ./client 127.0.0.1 8000  
+server  服务器可执行文件 例： ./server 127.0.0.1 6000
+## 项目运行截图
+
