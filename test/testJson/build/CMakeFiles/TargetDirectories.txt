@@ -1,0 +1,3 @@
+/home/tomcat/workspace/my_chatserver_project/test/testJson/build/CMakeFiles/testjson.dir
+/home/tomcat/workspace/my_chatserver_project/test/testJson/build/CMakeFiles/edit_cache.dir
+/home/tomcat/workspace/my_chatserver_project/test/testJson/build/CMakeFiles/rebuild_cache.dir
