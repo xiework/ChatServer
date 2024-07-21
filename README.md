@@ -26,7 +26,12 @@ muduo
 运行方式： ./autobuild.sh  
 ## 运行项目
 ### 单机环境下运行  
-client  客户端可执行文件 例： ./client 127.0.0.1 8000  
 server  服务器可执行文件 例： ./server 127.0.0.1 6000
+client  客户端可执行文件 例： ./client 127.0.0.1 6000 
+### 集群环境下运行
+在集群环境下运行，需要配置nginx,启动nginx服务器和redis服务器
+在linux系统， 在这个/usr/local/nginx/conf目录下找到nginx.conf配置文件,在该文件中配置tcp负载均衡模块，然后启动nginx
+./server 127.0.0.1 6000
+./client 127.0.0.1 8000
 ## 项目运行截图
 
