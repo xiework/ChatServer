@@ -19,9 +19,9 @@ muduo
 **include** ---------- 存放头文件  
 **src** --------------- 存放源文件  
 **test** -------------- 存放测试文件  
-**thirdparty** ------- 存放第三方头文件  
-**autobuild.sh** ----- 可执行脚本，用于编译项目  
-**CMakeLists.txt** --- cmake文件，产出makefile文件  
+**thirdparty** ------ 存放第三方头文件  
+**autobuild.sh** ---- 可执行脚本，用于编译项目  
+**CMakeLists.txt** -- cmake文件，产出makefile文件  
 **picture** ---------- 存放项目运行的截图
 ## 编译项目
 在项目目录下运行autobuild.sh  
