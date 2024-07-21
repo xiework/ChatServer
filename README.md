@@ -38,6 +38,7 @@ client  客户端可执行文件 例： ./client 127.0.0.1 6000
 ## 项目运行截图
 客户端运行截图
 ![image](./picture/client1.png)
+  
 ![image](./picture/client2.png)  
 服务端运行截图  
 在控制台打印运行日志
